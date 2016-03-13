@@ -1,0 +1,10 @@
+COMMENTS
+==============================
+Only 1 depth estimate?
+Angle is not linear in pixels
+Watch sign of angle
+
+reasonable depth estimates (10 pts max) - 4
+solution (10 pts max) - 8
+
+Score: 12/20
