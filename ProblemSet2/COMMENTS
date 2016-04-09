@@ -1,17 +1,21 @@
 COMMENTS
 ==============================
-script for metric rectification (10 pts max) -
+script for metric rectification (10 pts max) - 10
+ use ... to continue lines
 
-metric rectification image (10 pts max) -
+metric rectification image (10 pts max) - 10
+ distortion is the result of noise in the selected points
 
-script for affine rectification and vanishing points (10 pts max) -
+script for affine rectification and vanishing points (10 pts max) - 10
 
-affine rectification image (5 pts max) -
+affine rectification image (5 pts max) - 5
 
-comparison of affine and metric (5 pts max) -
+comparison of affine and metric (5 pts max) - 4
+ non-uniform scaling too
 
-cross ratio script (5 pts max) -
+cross ratio script (5 pts max) - 
+ input 3 co-linear points in each direction to calculate the vanishing point in that direction.
 
 vanishing points (5 pts max) - 
 
-Score: /50
+Score: 39/50
