@@ -1,0 +1,18 @@
+COMMENTS
+==============================
+
+Mosaic
+
+reasonable set of correspondences (10 pts max) - 10
+script for building the mosaic (10 pts max) - 10
+transformation and transformed images (10 pts max) - 10
+final mosaiced image (10 pts max) - 10
+
+Rectification
+
+script for rectifying image pair (10 pts max) - 8
+ Y and Z axes should be unit vectors
+rectified images (10 pts max) - 10
+
+
+Score: 58/60
